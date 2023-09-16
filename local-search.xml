@@ -8,7 +8,7 @@
     <link href="/2023/09/16/Surface-Laptop-Studio-Setup/"/>
     <url>/2023/09/16/Surface-Laptop-Studio-Setup/</url>
     
-    <content type="html"><![CDATA[<p>2023年9月1号在网上看到Costoco针对微软的Surface Laptop Studio有个600美元的促销活动，由于种草已久，所以直接下单。9月8号收到通知可以提取。</p><span id="more"></span><p><img src="/img/MicrosoftSurfaceLaptopStudio.jpg" alt="SLS"></p><h2 id="硬件配置"><a href="#硬件配置" class="headerlink" title="硬件配置"></a>硬件配置</h2><h2 id="软件配置"><a href="#软件配置" class="headerlink" title="软件配置"></a>软件配置</h2>]]></content>
+    <content type="html"><![CDATA[<p>2023年9月1号在网上看到Costoco针对微软的Surface Laptop Studio有个600美元的促销活动，由于种草已久，所以直接下单（加税大约2500美元）。9月8号收到通知可以提货。:smile:</p><span id="more"></span><p><img src="/img/MicrosoftSurfaceLaptopStudio.jpg" alt="SLS"></p><p>由于这台机器支持Studio&#x2F;Tablet模式，所以Surface Pen 2是必要的。需要额外购买，价格是120美元。</p><p>计划使用这台机器进行<strong>软件开发</strong>和<strong>内容创作</strong>。</p><h2 id="硬件配置"><a href="#硬件配置" class="headerlink" title="硬件配置"></a>硬件配置</h2><ul><li>CPU: 8 cores 11th Intel i7-11370H @ 3.30GHz</li><li>Memory: 32GB</li><li>Disk: 2TB SSD</li><li>Graphic: NVIDIA GeForce RTX 3050 Ti</li></ul><h2 id="软件配置"><a href="#软件配置" class="headerlink" title="软件配置"></a>软件配置</h2><ul><li>Windows Linux subsystem (Ubuntu 22.04 LTS)</li><li>Docker for windows</li><li>Graalvm JDK 17</li><li>Python 3.11</li><li>Visual Studio Enterprise Version</li><li>Visual Studio Code</li><li>Jetbrains Pycharm 2023.2.1</li><li>Jetbrains IDEA 2023.2.1</li><li>NodeJS 18.17.1 LTS</li><li>Azure CLI 2.52.0</li><li>AWS CLI V2</li><li>Pulumi 3.81.0</li><li>Git 2.42</li><li>Blender 3.6.2 LTS</li><li>Godot 4.1.1</li><li>7-zip 23.01</li><li>Joplin 2.12.15</li><li>CapCut 2.5.2</li><li>Microsoft Designer</li><li>Concepts 2023.5.4</li><li>Hexo 6.3.0</li></ul>]]></content>
     
     
     <categories>
@@ -25,19 +25,6 @@
       <tag>Setup</tag>
       
     </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="/2023/09/10/hello-world/"/>
-    <url>/2023/09/10/hello-world/</url>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
     
   </entry>
   
